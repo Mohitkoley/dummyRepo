@@ -1,4 +1,8 @@
 another file 
 who can see what happening next??
 Hello my name is mohit.
+<<<<<<< HEAD
 This is from Mohit side.
+=======
+Hello this is from Rockey side.
+>>>>>>> 01563dc8c641e6dc31a79c6a4f23b3c61107fd51

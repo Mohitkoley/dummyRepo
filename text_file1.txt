@@ -1,2 +1,2 @@
 Hello world!
-This is a second line in github.
+This is a Second line in github.
